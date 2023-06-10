@@ -1,0 +1,1 @@
+# task-5basics_of_script.js
